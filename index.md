@@ -1,3 +1,5 @@
+##Semiconductor – dielectric heterostructures for photoelectrochemical hydrogen evolution##
+
 SeDiHe, a joint Czech - Slovenian research project, focuses on photoelectrochemical (PEC) water splitting for H2 generation from heterostructures that combine a protective oxide layer (POL) with a semiconductor. We propose a radically new approach to assemble these two dissimilar material systems in order to create an atomically defined interface. The idea is based on nanostructuring using a graphene oxide (GO) layer, which should have a crucial role in van der Waals epitaxy between the constituents, as well as their electronic coupling. The heterostructures are integrated into semi-PEC reactors, where a photovoltaic (PV) cell supplies an additional external voltage to achieve H2 production. 
 
 Success of this strategy requires detailed knowledge of:
