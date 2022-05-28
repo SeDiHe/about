@@ -13,7 +13,7 @@ Research partners
 -	[Advanced Materials Department](http://www-k9.ijs.si/) , Jožef Stefan Institute, Ljubljana, Slovenia
 -	[Laboratory for Electrocatalysis](https://www.ki.si/en/departments/d10-department-of-materials-chemistry/l10-laboratory-for-electrocatalysis/) , Department of Materials Chemistry, National Institute of Chemistry, Ljubljana, Slovenia
 
-![Image](sidihe2.png)
+<img src="sidihe2.png" style="width: 100%;">
 
 
 ### Project duration: 2021-2024
