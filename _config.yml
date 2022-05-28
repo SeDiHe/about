@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: SiDeHe
 description: Semiconductor – dielectric heterostructures for photoelectrochemical hydrogen evolution
-logo: ![Image](sidihe.png)
+logo: [Image](sidihe.png)
 show_downloads: false
