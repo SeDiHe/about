@@ -15,8 +15,6 @@ Success of this strategy requires detailed knowledge of:
 
 <div style="text-align: center;"><img src="sidihe2.png" alt="SiDiHe2" style="width: 50%;"></div>
 
-<center><img src="sidihe2.png" style="width: 50%;">
-
 
 ### Project duration: 2021-2024
 
