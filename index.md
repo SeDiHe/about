@@ -1,12 +1,11 @@
 ## Semiconductor – dielectric heterostructures for photoelectrochemical hydrogen evolution ##
 
-<div style="text-align: justify;">SeDiHe, a joint Czech - Slovenian research project, focuses on photoelectrochemical (PEC) water splitting for H<sub>2</sub> generation from heterostructures that combine a protective oxide layer (POL) with a semiconductor. We propose a radically new approach to assemble these two dissimilar material systems in order to create an atomically defined interface. The idea is based on nanostructuring using a graphene oxide (GO) layer, which should have a crucial role in van der Waals epitaxy between the constituents, as well as their electronic coupling. The heterostructures are integrated into semi-PEC reactors, where a photovoltaic (PV) cell supplies an additional external voltage to achieve H<sub>2</sub> production.</div>
-
-
-<div style="text-align: justify;">Success of this strategy requires detailed knowledge of:</div>
+<div style="text-align: justify;">SeDiHe, a joint Czech - Slovenian research project, focuses on photoelectrochemical (PEC) water splitting for H<sub>2</sub> generation from heterostructures that combine a protective oxide layer (POL) with a semiconductor. We propose a radically new approach to assemble these two dissimilar material systems in order to create an atomically defined interface. The idea is based on nanostructuring using a graphene oxide (GO) layer, which should have a crucial role in van der Waals epitaxy between the constituents, as well as their electronic coupling. The heterostructures are integrated into semi-PEC reactors, where a photovoltaic (PV) cell supplies an additional external voltage to achieve H<sub>2</sub> production.<br /> 
+<br /> 
+Success of this strategy requires detailed knowledge of:
 -	the key parameters contributing to higher efficiency of H<sub>2</sub> generation from PEC water splitting, such as defect concentrations and atomic structure of the interface,
 -	options to engineer band offsets using various dielectric POL materials,
--	factors limiting solar-to-hydrogen (STH) efficiency of semi-PEC reactors made of these novel heterostructures.
+-	factors limiting solar-to-hydrogen (STH) efficiency of semi-PEC reactors made of these novel heterostructures.</div>
 
 ### Research partners
 -	[Department of Dielectrics](http://palata.fzu.cz/diel/) , Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic
