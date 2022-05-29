@@ -20,4 +20,4 @@ Success of this strategy requires detailed knowledge of:
 ### Project duration: 2021-2024
 
 ### Contact
--	PI in Slovenia: Asst. Prof. Matjaž Spreitzer, matjaz.spreitzer@ijs.si
+PI in Slovenia: Asst. Prof. Matjaž Spreitzer, matjaz.spreitzer@ijs.si
