@@ -13,11 +13,10 @@ Success of this strategy requires detailed knowledge of:
 -	[Advanced Materials Department](http://www-k9.ijs.si/) , Jožef Stefan Institute, Ljubljana, Slovenia
 -	[Laboratory for Electrocatalysis](https://www.ki.si/en/departments/d10-department-of-materials-chemistry/l10-laboratory-for-electrocatalysis/) , Department of Materials Chemistry, National Institute of Chemistry, Ljubljana, Slovenia
 
-<img src="sidihe2.png" style="width: 50%;" class="centerImage">
+<center><img src="sidihe2.png" style="width: 50%;">
 
 
-### Project duration
-2021-2024
+### Project duration: 2021-2024
 
 ### Contact
 -	PI in Slovenia: Asst. Prof. Matjaž Spreitzer, matjaz.spreitzer@ijs.si
