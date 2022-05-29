@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: SiDeHe
 description: 
-logo: img src="sidihe.png"
+logo: ![alt text](https://github.com/SeDiHe/about/blob/sidihe.png?raw=true)
 show_downloads: false
