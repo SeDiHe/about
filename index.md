@@ -16,7 +16,7 @@ Success of this strategy requires detailed knowledge of:
 -	[Laboratory for Electrocatalysis](https://www.ki.si/en/departments/d10-department-of-materials-chemistry/l10-laboratory-for-electrocatalysis/) , Department of Materials Chemistry, National Institute of Chemistry, Ljubljana, Slovenia
 
 <div style="text-align: center;"><img src="sidihe2.png" alt="SiDiHe2" style="width: 50%;"></div><br /> 
-<br /> 
+
 ### Project duration: 2021-2024
 
 ### Contact
