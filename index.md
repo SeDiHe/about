@@ -9,17 +9,14 @@ Success of this strategy requires detailed knowledge of:
   <li>factors limiting solar-to-hydrogen (STH) efficiency of semi-PEC reactors made of these novel heterostructures.</li>
 </ul>
 </div>
-<br /> 
-<br /> 
+
 ### Research partners
 -	[Department of Dielectrics](http://palata.fzu.cz/diel/) , Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic
 -	[Advanced Materials Department](http://www-k9.ijs.si/) , Jožef Stefan Institute, Ljubljana, Slovenia
 -	[Laboratory for Electrocatalysis](https://www.ki.si/en/departments/d10-department-of-materials-chemistry/l10-laboratory-for-electrocatalysis/) , Department of Materials Chemistry, National Institute of Chemistry, Ljubljana, Slovenia
 
-<div style="text-align: center;"><img src="sidihe2.png" alt="SiDiHe2" style="width: 50%;"></div>
-
-
-
+<div style="text-align: center;"><img src="sidihe2.png" alt="SiDiHe2" style="width: 50%;"></div><br /> 
+<br /> 
 ### Project duration: 2021-2024
 
 ### Contact
