@@ -13,6 +13,8 @@ Success of this strategy requires detailed knowledge of:
 -	[Advanced Materials Department](http://www-k9.ijs.si/) , Jožef Stefan Institute, Ljubljana, Slovenia
 -	[Laboratory for Electrocatalysis](https://www.ki.si/en/departments/d10-department-of-materials-chemistry/l10-laboratory-for-electrocatalysis/) , Department of Materials Chemistry, National Institute of Chemistry, Ljubljana, Slovenia
 
+<div style="text-align: center;"><img src="sidihe2.png" alt="SiDiHe2"></div>
+
 <center><img src="sidihe2.png" style="width: 50%;">
 
 
