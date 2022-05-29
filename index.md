@@ -8,7 +8,7 @@ Success of this strategy requires detailed knowledge of:
 -	factors limiting solar-to-hydrogen (STH) efficiency of semi-PEC reactors made of these novel heterostructures.
 
 
-Research partners
+### Research partners ###
 -	[Department of Dielectrics](http://palata.fzu.cz/diel/) , Institute of Physics of the Czech Academy of Sciences, Prague, Czech Republic
 -	[Advanced Materials Department](http://www-k9.ijs.si/) , Jožef Stefan Institute, Ljubljana, Slovenia
 -	[Laboratory for Electrocatalysis](https://www.ki.si/en/departments/d10-department-of-materials-chemistry/l10-laboratory-for-electrocatalysis/) , Department of Materials Chemistry, National Institute of Chemistry, Ljubljana, Slovenia
