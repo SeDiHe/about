@@ -20,5 +20,5 @@ Success of this strategy requires detailed knowledge of:
 ### Project duration: 2021-2024
 
 ### Contacts
-- PI in Slovenia: Asst. Prof. Matjaž Spreitzer, matjaz.spreitzer@ijs.si <a href = "mailto: matjaz.spreitzer@ijs.si"></a>
-- PI in Czech Republic: Prof. Dr. Jirí Hlinka, hlinka@fzu.cz <a href = "mailto: hlinka@fzu.cz"></a>
+- PI in Slovenia: Asst. Prof. Matjaž Spreitzer, <a href = "mailto: matjaz.spreitzer@ijs.si">matjaz.spreitzer@ijs.si</a>
+- PI in Czech Republic: Prof. Dr. Jirí Hlinka, <a href = "mailto: hlinka@fzu.cz">hlinka@fzu.cz</a>
